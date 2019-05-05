@@ -225,11 +225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\FrameAnalysis\\FrameAnalysis\\FrameAnalysis.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\FrameAnalysis_dll\\FrameAnalysis\\FrameAnalysis\\FrameAnalysis.csproj",
       "projectName": "FrameAnalysis",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\FrameAnalysis\\FrameAnalysis\\FrameAnalysis.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\FrameAnalysis_dll\\FrameAnalysis\\FrameAnalysis\\FrameAnalysis.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\FrameAnalysis\\FrameAnalysis\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\FrameAnalysis_dll\\FrameAnalysis\\FrameAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

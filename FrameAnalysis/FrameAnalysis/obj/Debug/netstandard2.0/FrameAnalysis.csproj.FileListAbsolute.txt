@@ -7,3 +7,11 @@ C:\Users\Administrator\source\repos\FrameAnalysis\FrameAnalysis\bin\Debug\netsta
 C:\Users\Administrator\source\repos\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.dll
 C:\Users\Administrator\source\repos\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.pdb
 C:\Users\Administrator\source\repos\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\bin\Debug\netstandard2.0\FrameAnalysis.deps.json
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\bin\Debug\netstandard2.0\FrameAnalysis.dll
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\bin\Debug\netstandard2.0\FrameAnalysis.pdb
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.dll
+C:\Users\Administrator\source\repos\FrameAnalysis_dll\FrameAnalysis\FrameAnalysis\obj\Debug\netstandard2.0\FrameAnalysis.pdb
